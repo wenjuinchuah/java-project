@@ -1,5 +1,12 @@
 # TMF2954 Java Programming Project - Gorup JCJ
 
+**Screenshots Overview**
+
+![Screenshots-1](/screenshots/screenshots-1.jpeg)
+![Screenshots-2](/screenshots/screenshots-2.jpeg)
+![Screenshots-3](/screenshots/screenshots-3.jpeg)
+![Screenshots-4](/screenshots/screenshots-4.jpeg)
+
 **`Required: Java SE 18 Development Kit`**
 
 **1. Download and unzip the file**
