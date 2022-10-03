@@ -2,10 +2,10 @@
 
 **Screenshots Overview**
 
-![Screenshots-1](/screenshots/screenshots-1.jpeg)
-![Screenshots-2](/screenshots/screenshots-2.jpeg)
-![Screenshots-3](/screenshots/screenshots-3.jpeg)
-![Screenshots-4](/screenshots/screenshots-4.jpeg)
+![Screenshots-1](/screenshots/screenshots-1.png)
+![Screenshots-2](/screenshots/screenshots-2.png)
+![Screenshots-3](/screenshots/screenshots-3.png)
+![Screenshots-4](/screenshots/screenshots-4.png)
 
 **`Required: Java SE 18 Development Kit`**
 
