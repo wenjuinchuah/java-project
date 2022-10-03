@@ -7,7 +7,7 @@
 ![Screenshots-3](/screenshots/screenshots-3.png)
 ![Screenshots-4](/screenshots/screenshots-4.png)
 
-**`Required: Java SE 18 Development Kit`**
+**`Required: Java SE 18 Development Kit` [[Download here]](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)**
 
 **1. Download and unzip the file**
 
