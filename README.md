@@ -1,4 +1,4 @@
-# TMF2954 Java Programming Project - Gorup JCJ
+# TMF2954 Java Programming Project - Group JCJ
 
 **Screenshots Overview**
 
